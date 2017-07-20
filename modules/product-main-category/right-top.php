@@ -93,7 +93,7 @@
 }*/
 </style>
 <section class="sec-adv">	
-	<div class="row"><article>
+	<div class="row col-sm-12 col-xs-12 col-md-12"><article>
 		<div class="block-right-banner">
 			<a href=""><img src="../web/images/product-main-category/banner-left.png" /></a>
 		</div>
@@ -109,7 +109,7 @@
 		</div></article>
 	</div>
 	<div class="row"><article>
-		<div class="col-md-6">
+		<div class="col-md-6 col-xs-12 col-sm-12 ">
 			<div class="background"><figure>
 				<img src="../web/images/product-main-category/img01.png">
 				<div class="layout-color">
@@ -122,7 +122,7 @@
 				</div>
 			</figure></div>
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-6 col-xs-12 col-sm-12">
 			<div class="background"><figure>
 				<img src="../web/images/product-main-category/img02.png">
 				<div class="layout-color">
