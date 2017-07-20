@@ -14,17 +14,18 @@
         <link href="web/css/responsive.css" rel="stylesheet" type="text/css" />
         <link href="web/css/custom.css" rel="stylesheet" type="text/css" />
         <link href="web/css/home.css" rel="stylesheet" type="text/css" />
-		<link href="web/css/product-detail.css?v=1" rel="stylesheet" type="text/css" />
         <script src="web/js/jquery-3.2.1.min.js" type="text/javascript"></script>
         <script src="web/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <link href="web/css/qtram_shoppingcart.css" rel="stylesheet" type="text/css" />
     </head>
     <body data-container="body" class="cms-home cms-index-index page-layout-1column" aria-busy="false">
         <div class="page-wrapper">
             <?php
                 include('modules/header.php');
-				include('modules/product_detail.php');
+                include('modules/home.php');
                 include('modules/footer.php');
             ?>
         </div>
+
     </body>
 </html>
