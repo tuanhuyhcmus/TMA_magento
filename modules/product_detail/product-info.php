@@ -6,25 +6,25 @@
 						>
 					</div>
 					<div class="col-md-12">
-						<a style="color:blue"  href="#">
+						<a class="a-blue-color"  href="#">
 						<div class="col-md-3 col-xs-3 ax_default image">
 							<img src="web/images/samsung_small_1.png"
 							>
 						</div>
 						</a> 
-						<a style="color:blue"  href="#">
+						<a class="a-blue-color"  href="#">
 						<div class="col-md-3 col-xs-3">
 							<img src="web/images/samsung_small_2.png"
 							>
 						</div>
 						</a>
-						<a style="color:blue"  href="#">
+						<a class="a-blue-color"  href="#">
 						<div class="col-md-3 col-xs-3">
 							<img src="web/images/samsung_small_3.png"
 							>
 						</div>
 						</a>
-						<a style="color:blue"  href="#">
+						<a class="a-blue-color"  href="#">
 						<div class="col-md-3 col-xs-3">
 							<img src="web/images/samsung_small_4.png">
 						</div>
@@ -40,25 +40,25 @@
 					</div>
 					<div class="row">
 						 <div class="col-md-2">
-											<span class="fa fa-star" style="color:#ffff00"></span>
-											<span class="fa fa-star" style="color:#ffff00"></span>
-											<span class="fa fa-star" style="color:#ffff00"></span>											
-											<span class="fa fa-star-half-o" style="color:#ffff00"></span>
-											<span class="fa fa-star-o" style="color:#ffff00"></span>
+											<span class="fa fa-star color-star"></span>
+											<span class="fa fa-star color-star" ></span>
+											<span class="fa fa-star color-star" ></span>											
+											<span class="fa fa-star-half-o color-star" ></span>
+											<span class="fa fa-star-o color-star" ></span>
 						</div>
 						<div >
 						
-						<a style="color:blue"  href="#" id="title_review" >  2 Reviews</a>
+						<a class="a-blue-color" href="#" id="title_review" >  2 Reviews</a>
 						<span>|</span>
-						<a style="color:blue"  href="#" id="title_review">Write Your Review</a>
+						<a class="a-blue-color"  href="#" id="title_review">Write Your Review</a>
 						</div>
 					</div>
 				
 					<div class="row" style="margin-top:10px">
 						<div class="col-md-9">
-							<div class="col-md-12" style="margin-right:0px;margin-bottom:0px;padding:0px">
-								<p style="margin-right:0">	Price: <span style="t"> $524.99 $556.99 You save:$22.00 aaaaaaaaa</span>
-									<span style="margin-left:10px"><img style="margin:0px;padding:0px" src="web/images/huy.png" width="70"></span>
+							<div class="col-md-12 margin-right-bottom-zero" >
+								<p>	Price: <span id="id_money"><b> $524.99</b></span><span id="id_old_money" style="margin-right:15px"> $556.99</span> You save:<b>$22.00</b> 
+									<span style="margin-left:20px"><img style="margin:0px;padding:0px" src="web/images/huy.png" width="70"></span>
 								</p>
 							</div>
 							
@@ -67,7 +67,7 @@
 						<div class="col-md-9" style="margin-bottom:0px;">
 							<p id="green_text">In stock</p>
 							<p>
-								Order and choose FREE Shipping at checkout (delivery within: 10- 12 days) <a style="color:blue"  href="#"></a>
+								Order and choose FREE Shipping at checkout (delivery within: 10- 12 days) <a class="a-blue-color"  href="#"></a>
 							</p>
 							
 						</div>												
@@ -109,7 +109,7 @@
 							Internal Memory: 32GB, 4GB RAM - microSD Up to 256HB
 						</div>
 						<div class="col-md-8" style="margin-top:20px;">
-							<a style="color:blue"  href="#">View More Details</a>
+							<a class="a-blue-color"  href="#product-description">View More Details</a>
 							
 						</div>
 						<div class="col-md-12">
@@ -118,10 +118,10 @@
 					</div>
 					<div class="row">
 						
-							<div class="col-md-1" style="margin-left:0px;margin-right:0px">
+							<div class="col-md-1 col-xs-4" style="margin-left:0px;margin-right:0px">
 								<p>Quantity</p>
 							</div>
-							<div class="col-md-1" style="margin-left:0px;">
+							<div class="col-md-1 col-xs-4" style="margin-left:0px;">
 								
 								<select style="width:50px;">
 									<option value="1">1</option>
@@ -141,36 +141,36 @@
 	
 					<div class="row" style="margin-top:20px;margin-bottom:35px">
 						
-							<div class="col-md-3">
-								<a style="color:blue"  href="#">Compare with similar items</a>
+							<div class="col-md-3 col-xs-6">
+								<a class="a-blue-color"  href="#">Compare with similar items</a>
 							</div>
-							<div class="col-md-2">
-								<a style="color:blue"  href="#">Add to wishlist</a>
+							<div class="col-md-2 col-xs-6">
+								<a class="a-blue-color"  href="#">Add to wishlist</a>
 							</div>
 							<div class="col-md-5">
 								<div class="row">
-									<div class="col-md-8">
-										<div class="col-md-3">
+									<div class="col-md-8  col-xs-12">
+										<div class="col-md-3 col-xs-3">
 											 <p id="title_review">Share</p>
 										</div>
 									
-										<div class="col-md-1">
-											 <a style="color:blue"  href="#">												
+										<div class="col-md-1 col-xs-2">
+											 <a class="a-blue-color"  href="#">												
 												<i class="fa fa-google" style="font-size:24px"></i>										
 											</a>
 										</div>
-										<div class="col-md-1">
-											 <a style="color:blue"  href="#">												
+										<div class="col-md-1 col-xs-2">
+											 <a class="a-blue-color"  href="#">												
 												<i class="fa fa-facebook" style="font-size:24px;color:blue"></i>										
 											</a>
 										</div>
-										<div class="col-md-1">
-											 <a style="color:blue"  href="#">												
+										<div class="col-md-1 col-xs-2">
+											 <a class="a-blue-color"  href="#">												
 												<i class="fa fa-twitter" style="font-size:24px;color:red"></i>										
 											</a>
 										</div>										
-										<div class="col-md-1">
-											 <a style="color:blue"  href="#">												
+										<div class="col-md-1 col-xs-2">
+											 <a class="a-blue-color"  href="#">												
 												<i class="fa fa-youtube" style="font-size:24px;color:red"></i>										
 											</a>
 										</div>

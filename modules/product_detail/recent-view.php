@@ -1,3 +1,4 @@
+		
 			<div class="row" >
 				<div class="col-md-12" style="margin-top:55px;">
 					<div class="col-md-11" >
@@ -7,10 +8,14 @@
 				<div class="col-md-12">
 				
 						<div class="col-md-5ths ">
-							<div class="span12">
-								<a href="#">
+							<div class="span12 block-product">
+								<div class="view-img">
 									<img src="web/images/samsung_crop_customer_1.png">
-								</a>
+								</div>
+								<div class="layout-button">
+										<a href="#"><div class="button-add">Add to Cart</div></a>
+										<a href="#"><div class="button-view">View Detail</div></a>
+								</div>
 							</div>
 							
 							<div class="span12">
@@ -19,15 +24,19 @@
 								</p>
 							</div>
 							<div class="span12">
-								<p id="id_money_blue">$11.99</p>
+								<p id="id_money_blue"><b><sup>$</sup>11.99</b></p>
 							</div>
 						</div>
 
 						<div class="col-md-5ths ">
-							<div class="span12">
-								<a href="#">
+							<div class="span12 block-product">
+								<div class="view-img">
 									<img src="web/images/samsung_crop_customer_1.png">
-								</a>
+								</div>
+								<div class="layout-button">
+										<a href="#"><div class="button-add">Add to Cart</div></a>
+										<a href="#"><div class="button-view">View Detail</div></a>
+								</div>
 							</div>
 							
 							<div class="span12">
@@ -36,15 +45,19 @@
 								</p>
 							</div>
 							<div class="span12">
-								<p id="id_money_blue">$11.99</p>
+								<p id="id_money_blue"><b><sup>$</sup>11.99</b></p>
 							</div>
 						</div>
 
 						<div class="col-md-5ths " >
-							<div class="span12">
-								<a href="#">
+							<div class="span12 block-product">
+								<div class="view-img">
 									<img src="web/images/samsung_crop_customer_1.png">
-								</a>
+								</div>
+								<div class="layout-button">
+										<a href="#"><div class="button-add">Add to Cart</div></a>
+										<a href="#"><div class="button-view">View Detail</div></a>
+								</div>
 							</div>
 							
 							<div class="span12" >
@@ -53,15 +66,19 @@
 								</p>
 							</div>
 							<div class="span12">
-								<p id="id_money_blue">$11.99</p>
+								<p id="id_money_blue"><b><sup>$</sup>11.99</b></p>
 							</div>
 						</div>
 
 						<div class="col-md-5ths ">
-							<div class="span12">
-								<a href="#">
+							<div class="span12 block-product">
+								<div class="view-img">
 									<img src="web/images/samsung_crop_customer_1.png">
-								</a>
+								</div>
+								<div class="layout-button">
+										<a href="#"><div class="button-add">Add to Cart</div></a>
+										<a href="#"><div class="button-view">View Detail</div></a>
+								</div>
 							</div>
 							
 							<div class="span12">
@@ -70,15 +87,19 @@
 								</p>
 							</div>
 							<div class="span12">
-								<p id="id_money_blue">$11.99</p>
+								<p id="id_money_blue"><b><sup>$</sup>11.99</b></p>
 							</div>
 						</div>
 
 						<div class="col-md-5ths ">
-							<div class="span12">
-								<a href="#">
+							<div class="span12 block-product">
+								<div class="view-img">
 									<img src="web/images/samsung_crop_customer_1.png">
-								</a>
+								</div>
+								<div class="layout-button">
+										<a href="#"><div class="button-add">Add to Cart</div></a>
+										<a href="#"><div class="button-view">View Detail</div></a>
+								</div>
 							</div>
 							
 							<div class="span12">
@@ -87,7 +108,7 @@
 								</p>
 							</div>
 							<div class="span12">
-								<p id="id_money_blue">$11.99</p>
+								<p id="id_money_blue"><b><sup>$</sup>11.99</b></p>
 							</div>
 						</div>						
 				

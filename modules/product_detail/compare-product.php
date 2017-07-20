@@ -5,14 +5,14 @@
 								<h2>Compare to Similar Items</h2>							
 					</div>
 				</div>
-				<div class="col-md-12">
-						<div class="col-md-12" style="margin-top:25px">						       
+				<div class="col-md-12 ">
+						<div class="col-md-12 col-xs-12" style="margin-top:25px">						       
 							<table class="table table-bordered">		
 								<tbody>
 									<tr>
 										<td class="active"></td>
 										<td>
-											<div class="row">
+											<div class="row col-xs-12">
 												<div class="col-md-12 col-md-offset-2">
 													<img src="web/images/samsung_crop_compare_1.png">
 												</div>
@@ -24,7 +24,7 @@
 														<input type="text"></input>
 													</div>
 													<div class="col-md-3">
-														<button type="button">															
+														<button type="button" style="height:35px">															
 															<span class="glyphicon glyphicon-search"></span>
 														</button>
 													</div>
@@ -54,7 +54,7 @@
 														<input type="text"></input>
 													</div>
 													<div class="col-md-3">
-														<button type="button">															
+														<button type="button" style="height:35px">															
 															<span class="glyphicon glyphicon-search"></span>
 														</button>
 													</div>
@@ -86,7 +86,7 @@
 														<input type="text"></input>
 													</div>
 													<div class="col-md-3">
-														<button type="button">															
+														<button type="button" style="height:35px">															
 															<span class="glyphicon glyphicon-search"></span>
 														</button>
 													</div>

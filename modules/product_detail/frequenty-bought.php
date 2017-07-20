@@ -17,20 +17,20 @@
 								<img src="web/images/samsung_crop_2.png" height="180" width="180">
 							</div>							
 						</div>
-						<div class="col-md-7 col-lg-7 col-sm-7">
+						<div class="col-md-7 col-lg-7 col-xs-12">
 							<div class="row">
-								<div class="col-md-11 col-lg-11 col-sm-11">
-								    <div class="row">
+								<div class="col-md-11 col-lg-11 col-xs-11">
+								    <div class="row col-xs-11">
 									    <input type="checkbox" name="abc">Galaxy S7 Edge Case, SUPCASE Full-body Rugged Holster Case WITHOUT Screen Protector for
-									    Samsung Galaxy S7 Edge (2016 Release) <span id="blue_text" >$17.99</span>
+									    Samsung Galaxy S7 Edge (2016 Release) <span id="blue_text" ><b>$17.99</b></span>
 									     </input>
 								    </div>	
-								    <div class="row">
-									    <input type="checkbox" name="abc">Galaxy S7 Edge Case, SUPCASE Full-body Rugged Holster  <span id="blue_text" >$7.85</span>
+								    <div class="row col-xs-11">
+									    <input type="checkbox" name="abc">Galaxy S7 Edge Case, SUPCASE Full-body Rugged Holster  <span id="blue_text" ><b>$7.85</b></span>
 									    </input>							
 								    </div>
-								    <div class="row" style="margin-top:25px;margin-bottom:25px;">
-									   <p>Total: <span id="id_money">$25.84</span> </p>
+								    <div class="row col-xs-11" style="margin-top:25px;margin-bottom:25px;">
+									   <p>Total: <span id="id_money"><b>$25.84</b></span> </p>
 								    </div>
 								
 									<div class="row">

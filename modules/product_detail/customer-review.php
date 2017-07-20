@@ -60,7 +60,7 @@
 						  </div>							  
 						</div>						
 							<div class="col-md-12">
-								<button type="button" class="btn btn-info">Write a Review</button>
+								<button type="button" class=" btn" style="background-color:#1a1aff;border: 1px solid #1a1aff;height:35px;text-align: center;line-height: 10px;margin-right:10px; color: white">Write a Review</button>
 							</div>
 						
 
