@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>product-main-category</title>
+	<title>product-main-category</title>	
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="../web/css/font/font-awesome.css" rel="stylesheet" type="text/css" />
 	<link href="../web/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
 	<link href="../web/bootstrap/css/bootstrap-theme.css" rel="stylesheet" type="text/css" />
