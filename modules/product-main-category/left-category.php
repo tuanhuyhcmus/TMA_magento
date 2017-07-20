@@ -25,7 +25,6 @@
    }*/
  </style>
  <div class="sec-category">
-    
     <div class="panel-body">
     <h3 class="list-title">Electronics & Computers</h3>
     <hr/>

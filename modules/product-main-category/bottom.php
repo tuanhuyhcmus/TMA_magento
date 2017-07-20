@@ -1,8 +1,5 @@
 <style type="text/css">
-    /*.block-product {
-        width: 270px;
-        height: 263px;        
-    }
+    /*.
     .block-detail {
         background-color: #F9F9F9;
         height: 115px;
@@ -31,11 +28,7 @@
     .block-detail .text a:hover{
         color: blue;
     }
-    .view-img img {
-        width: 270px;
-        height: 265px;
-    }
-    .block-product .button-add {
+    .button-add {
         background-color: blue;
         color: white;
         font-size: 12px;
@@ -44,7 +37,7 @@
         height: 30px;
         font-weight: bold;
     }
-    .block-product .button-view{
+    .button-view{
         background-color: white;
         color: blue;
         font-size: 12px;

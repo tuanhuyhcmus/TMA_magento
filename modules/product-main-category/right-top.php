@@ -93,7 +93,7 @@
 }*/
 </style>
 <section class="sec-adv">	
-	<div class="row col-sm-12 col-xs-12 col-md-12"><article>
+	<div class="row"><article>
 		<div class="block-right-banner">
 			<a href=""><img src="../web/images/product-main-category/banner-left.png" /></a>
 		</div>
