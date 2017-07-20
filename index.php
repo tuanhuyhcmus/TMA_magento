@@ -1,21 +1,30 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Demo Magento2</title>
-  </head>
-  <body>
-    <<?php include('modules/woman_discount.php') ?>
-    <main>
-      <section>
-        <div class="container">content
-              <div class="row">
-                  <div class="col-md-4"></div>
-                  <div class="col-md-8"></div>
-              </div>
-              <div class="row">row2</div>
+    <head>
+        <meta charset="utf-8">
+        <title>Demo</title>
+        <link href="web/css/font/font-awesome.css" rel="stylesheet" type="text/css" />
+        <link href="web/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
+        <link href="web/bootstrap/css/bootstrap-theme.css" rel="stylesheet" type="text/css" />
+        <link href="web/bootstrap/css/bootstrap-theme.css" rel="stylesheet" type="text/css" />
+        <link href="web/css/styles-m.css" rel="stylesheet" type="text/css" />
+        <link href="web/css/styles.css" rel="stylesheet" type="text/css" />
+        <link href="web/css/styles-l.css" rel="stylesheet" type="text/css" />
+        <link href="web/css/magicmenu.css" rel="stylesheet" type="text/css" />
+        <link href="web/css/responsive.css" rel="stylesheet" type="text/css" />
+        <link href="web/css/custom.css" rel="stylesheet" type="text/css" />
+        <link href="web/css/home.css" rel="stylesheet" type="text/css" />
+		<link href="web/css/product-detail.css" rel="stylesheet" type="text/css" />
+        <script src="web/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+        <script src="web/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    </head>
+    <body data-container="body" class="cms-home cms-index-index page-layout-1column" aria-busy="false">
+        <div class="page-wrapper">
+            <?php
+                include('modules/header.php');
+				include('modules/product_detail.php');
+                include('modules/footer.php');
+            ?>
         </div>
-      </section>
-    </main>
-  </body>
+    </body>
 </html>

@@ -1,0 +1,81 @@
+	 .breadcrumb > li + li:before {
+				content: "\3E" 
+			}
+			 .breadcrumb{				
+				font-size: 15px !important;
+			}
+			#title_samsung{
+				font-size: 30px ;
+			}
+			#title_review{
+				font-size: 14px;
+				
+			}
+			#id_money{
+				font-size: 25px;
+			}
+			#id_money_blue{
+				font-size: 20px;
+				color: blue;
+			}			
+			#id_old_money{
+				font-size: 15px;
+				text-decoration: line-through;
+			}
+			#id_save{
+				font-size: 20px;
+			}
+			#id_review{
+				font-size: 16px;
+				 font-weight: bold;
+			}			
+			#green_text{
+				color: green;
+				font-size: 15px;
+			}
+			#blue_text{
+				color: blue;
+				font-size: 15px;
+			}			
+			.button1 {font-size: 5px;
+				background-color: #4CAF50;
+				}
+			.button2 {font-size: 5px;
+			background-color: #ff0000;}
+			.table-bordered th, .table-bordered td { border: 1px solid #ddd!important }
+			
+			.col-xs-5ths,
+			.col-sm-5ths,
+			.col-md-5ths,
+			.col-lg-5ths {
+				position: relative;
+				min-height: 1px;
+				padding-right: 15px;
+				padding-left: 15px;
+			}
+
+			.col-xs-5ths {
+				width: 20%;
+				float: left;
+			}
+
+			@media (min-width: 768px) {
+				.col-sm-5ths {
+				width: 20%;
+				float: left;
+				}
+			}	
+
+			@media (min-width: 992px) {
+				.col-md-5ths {
+				width: 20%;
+				float: left;
+				}
+			}
+
+			@media (min-width: 1200px) {
+				.col-lg-5ths {
+				width: 20%;
+				float: left;
+				}
+			}
